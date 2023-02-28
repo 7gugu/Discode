@@ -3,7 +3,7 @@ A new type of circle code
 
 ![gz7gugu@qq.com](https://s1.ax1x.com/2022/06/29/jmzMS1.jpg)
 
-## Background
+## Intro
 
 Few months ago, I found Tiktok has showed their private type two-dimensional barcode which called “douyin code”.
 So this thing avtive my  interesting to discover how to design & generate a circle barcode.
