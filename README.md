@@ -1,7 +1,8 @@
 # Discode
 A new type of circle code
 
-![gz7gugu@qq.com](https://s1.ax1x.com/2022/06/29/jmzMS1.jpg)
+![Discode](https://github.com/7gugu/Discode/assets/8674852/c3c9a2b4-8fa8-4e57-9cef-a29f4b9b8438)
+
 
 ## Intro
 
